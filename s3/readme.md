@@ -121,7 +121,7 @@ storage:
     bucket: docker-registry
     accesskey: XC5SVD9ZGQD0D0BG3J0H
     secretkey: uu3oqDZQjBFA22YqcuO4siuxecFVM0yYYHZ6COm4
-    regionendpoint: 192.168.59.1:80
+    regionendpoint: http://192.168.59.1:80
     secure: false
 http:
     addr: :6000
